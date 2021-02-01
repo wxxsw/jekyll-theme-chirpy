@@ -7,7 +7,7 @@ panel:
 
 post:
   relate_posts: "接下来阅读"
-  share: Share
+  share: "分享"
   button:
     next: "较新文章"
     previous: "较早文章"

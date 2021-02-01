@@ -4,7 +4,7 @@
 # --------------------------
 title: 森仔的博客                          # the main title
 
-tagline: 分享 Swfit、iOS 变成经验和心得   # it will display as the sub-title
+tagline: 分享 Swfit、iOS 编程经验和心得   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Swift iOS 编程经验和心得.
